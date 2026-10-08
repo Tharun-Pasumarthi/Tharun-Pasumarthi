@@ -186,7 +186,7 @@ A secure digital vault project focused on **protecting and managing sensitive di
 
 <p align="center">
   <img height="180"
-       src="https://github-readme-stats.vercel.app/api?username=Tharun-Pasumarthi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" />
+       src="https://github-readme-stats.vercel.app/api?username=Tharun-Pasumarthi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
   <img height="180"
        src="https://streak-stats.demolab.com?user=Tharun-Pasumarthi&theme=github-dark-blue&hide_border=true" />
