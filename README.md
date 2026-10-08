@@ -79,6 +79,8 @@ An AI-driven hiring platform designed around **skill-based recruitment**.
 - Multilingual voice-enabled search
 - Dispute resolution
 
+🔗 [View Repository](https://github.com/Tharun-Pasumarthi)
+
 ---
 
 ### 🎓 SyncCampus — Secure College Event Platform
@@ -114,19 +116,11 @@ A healthcare-oriented web application project focused on building a practical di
 
 ---
 
-### 🩺 SecureMedAI
+### 🔐 PawnVault
 
-An AI-focused healthcare application project exploring technology for practical healthcare use cases.
+A secure digital vault project focused on **protecting and managing sensitive digital content** with security and privacy in mind.
 
-🔗 [View Repository](https://github.com/Tharun-Pasumarthi/SecureMedAI)
-
----
-
-### ✈️ TravelEva
-
-A travel-oriented web application project.
-
-🔗 [View Repository](https://github.com/Tharun-Pasumarthi/TravelEva)
+🔗 [View Repository](https://github.com/Tharun-Pasumarthi/PAWN)
 
 ---
 
@@ -135,7 +129,6 @@ A travel-oriented web application project.
     <img src="https://img.shields.io/badge/Explore%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
 
 ## 💼 Experience
